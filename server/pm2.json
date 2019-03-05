@@ -1,0 +1,37 @@
+{
+    "name": "zhoubao",
+    "script": "./bin/www",
+    "cwd": "./",
+    "watch": [
+        "bin",
+        "routers",
+        "server",
+        "util",
+        "app.js"
+    ],
+    "ignore_watch": [
+        "node_modules",
+        "logs",
+        "public"
+    ],
+    "watch_options": {
+        "followSymlinks": false
+    },
+    "error_file": "./logs/app-err.log",
+    "out_file": "./logs/app-out.log",
+    "env": {
+        "NODE_ENV": "production",
+        "REMOTE_ADDR": "zzzfang.com",
+        "REMOTE_ADDR_ALL": "www.zzzfang.com"
+    },
+    "env_dev": {
+        "NODE_ENV": "development",
+        "REMOTE_ADDR": "localhost",
+        "REMOTE_ADDR_ALL": "localhost:1234"
+    },
+    "env_test": {
+        "NODE_ENV": "test",
+        "REMOTE_ADDR": "localhost",
+        "REMOTE_ADDR_ALL": "localhost:1234"
+    }
+}
