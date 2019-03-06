@@ -1,22 +1,3 @@
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- @wuliqiangqiang Sign out
-This repository has been archived by the owner. It is now read-only.
-110
-2,064 559 cubiq/add-to-homescreen
- Code  Issues 82  Pull requests 20  Projects 0  Wiki  Insights
-add-to-homescreen/style/addtohomescreen.css
-@christoefar christoefar add ios10 css
-f21976d  on 28 Sep 2016
-@cubiq @rbu @pedroabreu @christoefar @bluntspoon
-260 lines (222 sloc)  9.92 KB
-    
 .ath-viewport * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
@@ -276,16 +257,3 @@ f21976d  on 28 Sep 2016
 		box-shadow: none;
 	}
 }
-© 2019 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-正在查询，请稍候……

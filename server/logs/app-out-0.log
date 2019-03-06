@@ -3568,3 +3568,309 @@
   --> GET /favicon.ico 404 2ms -
   <-- GET /pages/main/test/img/icons/book-256.png
   --> GET /pages/main/test/img/icons/book-256.png 200 1ms 6.47kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 170ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 11ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 14ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 13ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 3ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /
+  --> GET / 200 9ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 3ms 0b
+  <-- GET /pages/main/test/addtohomescreen.css
+  --> GET /pages/main/test/addtohomescreen.css 200 3ms 9.92kb
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/addtohomescreen.js 200 2ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 1ms 1.02kb
+  <-- GET /
+  --> GET / 200 4ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 5ms 0b
+  <-- GET /pages/main/test/addtohomescreen.css
+  --> GET /pages/main/test/addtohomescreen.css 200 1ms 9.92kb
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/addtohomescreen.js 200 5ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /
+  --> GET / 200 3ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/addtohomescreen.css 200 3ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 3ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /
+  --> GET / 200 2ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 3ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 3ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 4ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 3ms -
+  <-- GET /
+  --> GET / 200 3ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/addtohomescreen.css 200 2ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 2ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /
+  --> GET / 200 3ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 7ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 7ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 7ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /
+  --> GET / 200 3ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 5ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 6ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 4ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 4ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET //pages/main/test/sw.js
+  xxx GET //pages/main/test/sw.js 400 2ms -
+  <-- GET /pages/main/test/sw.js
+  --> GET /pages/main/test/sw.js 200 4ms 499b
+  <-- GET /
+  --> GET / 200 4ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  --> GET /pages/main/test/test.js 200 3ms 0b
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/addtohomescreen.css 200 7ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 5ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 1ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /
+  --> GET / 200 3ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 5ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 5ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 5ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 2ms 1.02kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 200ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 14ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 19ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 26ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 10ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 3ms -
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 232ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 14ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 15ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 16ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 5ms 1.02kb
+  <-- GET /
+  --> GET / 200 5ms 2kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 8ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 10ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 10ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 3ms 1.02kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 197ms 2kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 22ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 26ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 25ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 4ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 404 3ms -
+  <-- GET /manifest.json
+  --> GET /manifest.json 404 1ms -
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /sw.js
+  --> GET /sw.js 404 2ms -
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 152ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 15ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 20ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 20ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 1ms 1.02kb
+  <-- GET /pages/main/test/img/icons/book-32.png
+  <-- GET /pages/main/test/img/icons/book-72.png
+  --> GET /pages/main/test/img/icons/book-32.png 200 4ms 648b
+  <-- GET /pages/main/test/img/icons/book-128.png
+  --> GET /pages/main/test/img/icons/book-72.png 200 4ms 1.42kb
+  <-- GET /pages/main/test/img/icons/book-144.png
+  <-- GET /pages/main/test/img/icons/book-192.png
+  <-- GET /pages/main/test/img/icons/book-256.png
+  --> GET /pages/main/test/img/icons/book-128.png 200 5ms 2.86kb
+  <-- GET /pages/main/test/img/icons/book-512.png
+  --> GET /pages/main/test/img/icons/book-256.png 200 6ms 6.47kb
+  --> GET /pages/main/test/img/icons/book-144.png 200 7ms 3.12kb
+  --> GET /pages/main/test/img/icons/book-192.png 200 8ms 4.64kb
+  --> GET /pages/main/test/img/icons/book-512.png 200 5ms 17.67kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /pages/main/test/sw.js
+  --> GET /pages/main/test/sw.js 200 6ms 499b
+  <-- GET /
+  --> GET / 200 4ms 1.97kb
+  <-- GET /pages/main/test/img/icons/book-144.png
+  --> GET /pages/main/test/img/icons/book-144.png 200 3ms 3.12kb
+  <-- GET /
+  --> GET / 200 6ms 1.97kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 7ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 8ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 8ms 32.75kb
+  <-- GET /pages/main/test/manifest.json
+  --> GET /pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 155ms 1.96kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 21ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 28ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 26ms 32.75kb
+  <-- GET /pages/main/manifest.json
+  --> GET /pages/main/manifest.json 200 2ms 1.05kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /pages/main/sw.js
+  --> GET /pages/main/sw.js 200 3ms 499b
+  <-- GET /
+  --> GET / 200 5ms 1.96kb
+  <-- GET /
+  --> GET / 200 7ms 1.96kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 10ms 0b
+  --> GET /pages/main/test/addtohomescreen.js 200 11ms 32.75kb
+  --> GET /pages/main/test/addtohomescreen.css 200 12ms 9.92kb
+  <-- GET /pages/main/manifest.json
+  --> GET /pages/main/manifest.json 200 5ms 1.05kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /pages/main/sw.js
+  --> GET /pages/main/sw.js 200 3ms 499b
+  <-- GET /
+  --> GET / 200 3ms 1.96kb
+  <-- GET /
+  --> GET / 200 3ms 1.96kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 6ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 6ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 6ms 32.75kb
+  <-- GET /pages/main/manifest.json
+  --> GET /pages/main/manifest.json 200 2ms 1.05kb
+  <-- GET /
+  --> GET / 200 3ms 1.96kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 3ms 0b
+  <-- GET /pages/main/test/addtohomescreen.css
+  --> GET /pages/main/test/addtohomescreen.css 200 2ms 9.92kb
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/addtohomescreen.js 200 2ms 32.75kb
+  <-- GET /pages/main/manifest.json
+  --> GET /pages/main/manifest.json 200 1ms 1.05kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /pages/main/test/img/icons/book-144.png
+  --> GET /pages/main/test/img/icons/book-144.png 200 3ms 3.12kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 206ms 1.94kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 17ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 63ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 62ms 32.75kb
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.13kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 3ms -
+  <-- GET /sw.js
+  --> GET /sw.js 200 2ms 499b
+  <-- GET /
+  --> GET / 200 5ms 1.94kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 4ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 5ms 9.92kb
+  --> GET /pages/main/test/addtohomescreen.js 200 5ms 32.75kb
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 3ms 1.13kb
+  <-- GET /sw.js
+  --> GET /sw.js 200 1ms 499b

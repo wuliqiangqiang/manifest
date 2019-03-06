@@ -217,3 +217,31 @@ Error: Cannot find module 'is-generator-function'
   req: '<original node req>',
   res: '<original node res>',
   socket: '<original node socket>' }
+【错误】: { BadRequestError: Malicious Path
+    at resolvePath (/Users/ryan/self/zzzf/manifest/server/node_modules/resolve-path/index.js:78:11)
+    at send (/Users/ryan/self/zzzf/manifest/server/node_modules/koa-send/index.js:68:10)
+    at serve (/Users/ryan/self/zzzf/manifest/server/node_modules/koa-static/index.js:44:24)
+    at dispatch (/Users/ryan/self/zzzf/manifest/server/node_modules/koa-compose/index.js:42:32)
+    at logger (/Users/ryan/self/zzzf/manifest/server/node_modules/koa-logger/index.js:67:13)
+    at dispatch (/Users/ryan/self/zzzf/manifest/server/node_modules/koa-compose/index.js:42:32)
+    at filter (/Users/ryan/self/zzzf/manifest/server/node_modules/koa-json/index.js:25:12)
+    at dispatch (/Users/ryan/self/zzzf/manifest/server/node_modules/koa-compose/index.js:42:32)
+    at bodyParser (/Users/ryan/self/zzzf/manifest/server/node_modules/koa-bodyparser/index.js:86:11)
+    at <anonymous>
+    at process._tickCallback (internal/process/next_tick.js:160:7) message: 'Malicious Path' } { request: 
+   { method: 'GET',
+     url: '//pages/main/test/sw.js',
+     header: 
+      { host: '192.168.0.101:1235',
+        connection: 'keep-alive',
+        'upgrade-insecure-requests': '1',
+        'user-agent': 'Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Mobile Safari/537.36',
+        accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+        'accept-encoding': 'gzip, deflate',
+        'accept-language': 'zh-CN,zh;q=0.9,zh-TW;q=0.8' } },
+  response: { status: 404, message: 'Not Found', header: {} },
+  app: { subdomainOffset: 2, proxy: false, env: 'development' },
+  originalUrl: '//pages/main/test/sw.js',
+  req: '<original node req>',
+  res: '<original node res>',
+  socket: '<original node socket>' }
