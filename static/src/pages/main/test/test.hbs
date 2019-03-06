@@ -21,6 +21,7 @@
     <meta name="msapplication-square150x150logo" content="/static/src/pages/main/test/img/icons/book-144.png" />
     <meta name="msapplication-square310x310logo" content="/static/src/pages/main/test/img/icons/book-256.png" />
 
+    <script src="/static/src/pages/main/test/test.js"></script>
     <title>PWA: 图书搜索</title>
 </head>
 <body>
@@ -29,8 +30,10 @@
   // 此处代码 后面相关章节会去说明
   if ('serviceWorker' in navigator) {
     window.addEventListener('load', function() {
-      navigator.serviceWorker.register('/static/src/pages/main/test/sw.js')
-        .then(function(registration) {})
+      navigator.serviceWorker.register('./static/src/pages/main/test/sw.js')
+        .then(function(registration) {
+            console.log(1,registration);
+        })
         .catch(function(err) {})
     })
   }
