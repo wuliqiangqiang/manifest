@@ -8,7 +8,7 @@ const logger = require("koa-logger");
 const routers = require("./router/router");
 const path = require("path");
 const env =
-  process.env.REMOTE_ADDR === "development"
+  process.env.NODE_ENV === "development"
     ? require("./config/development")
     : require("./config/production");
 
@@ -18,7 +18,7 @@ const env =
 // const filter = require('./routes/filter');
 // const { secret } = require('./server/jwt');
 
-console.log(env);
+// console.log(process.env);
 
 onerror(app);
 
@@ -59,7 +59,7 @@ app.on("error", (err, ctx) => {
 
 app.use(routers.routes(), routers.allowedMethods());
 
-console.log("环境为:", process.env.REMOTE_ADDR);
+console.log("环境为1:", process.env.PORT);
 
 module.exports = app;
 

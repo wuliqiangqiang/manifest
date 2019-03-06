@@ -1,5 +1,5 @@
 {
-    "name": "zhoubao",
+    "name": "manifest",
     "script": "./bin/www",
     "cwd": "./",
     "watch": [
