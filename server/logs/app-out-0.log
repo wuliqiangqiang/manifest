@@ -1837,3 +1837,8 @@
   <-- GET /static/src/pages/main/test/img/icons/book-512.png
   --> GET /static/src/pages/main/test/img/icons/book-256.png 200 5ms 6.47kb
   --> GET /static/src/pages/main/test/img/icons/book-512.png 200 5ms 17.67kb
+环境为: development
+123 '1235'
+服务已经开启 1235
+环境为: development
+服务已经开启 1235

@@ -59,7 +59,7 @@ app.on("error", (err, ctx) => {
 
 app.use(routers.routes(), routers.allowedMethods());
 
-console.log("环境为1:", process.env.PORT);
+console.log("环境为:", process.env.NODE_ENV);
 
 module.exports = app;
 
