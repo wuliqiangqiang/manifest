@@ -1,42 +1,46 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
+    <meta name="viewport"
+        content="width=device-width, initial-scale=1.0, minimum-scale=1, maximum-scale=1, user-scalable=no">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="manifest" href="/static/src/pages/main/test/manifest.json">
+    <link rel="manifest" href="/manifest.json">
 
-    <meta name="theme-color" content="#5eace0"/>
+    <meta name="theme-color" content="#5eace0" />
 
     <!-- 针对safari（iOS）的添加到桌面功能进行相关设置 -->
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="default">
     <meta name="apple-mobile-web-app-title" content="图书搜索">
-    <link rel="apple-touch-icon" href="/static/src/pages/main/test/img/icons/book-256.png">
+    <link rel="apple-touch-icon" href="/pages/main/test/img/icons/book-256.png">
 
     <!-- IE的设置 -->
     <meta name="application-name" content="图书搜索" />
     <meta name="msapplication-TileColor" content="#222">
-    <meta name="msapplication-square70x70logo" content="/static/src/pages/main/test/img/icons/book-72.png" />
-    <meta name="msapplication-square150x150logo" content="/static/src/pages/main/test/img/icons/book-144.png" />
-    <meta name="msapplication-square310x310logo" content="/static/src/pages/main/test/img/icons/book-256.png" />
+    <meta name="msapplication-square70x70logo" content="/pages/main/test/img/icons/book-72.png" />
+    <meta name="msapplication-square150x150logo" content="/pages/main/test/img/icons/book-144.png" />
+    <meta name="msapplication-square310x310logo" content="/pages/main/test/img/icons/book-256.png" />
 
-    <script src="/static/src/pages/main/test/test.js"></script>
+    <script src="/pages/main/test/test.js"></script>
     <title>PWA: 图书搜索</title>
 </head>
+
 <body>
     <div>manifest 测试</div>
     <script>
-  // 此处代码 后面相关章节会去说明
-  if ('serviceWorker' in navigator) {
-    window.addEventListener('load', function() {
-      navigator.serviceWorker.register('./static/src/pages/main/test/sw.js')
-        .then(function(registration) {
-            console.log(1,registration);
-        })
-        .catch(function(err) {})
-    })
-  }
-  </script>
+        // 此处代码 后面相关章节会去说明
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', function () {
+                navigator.serviceWorker.register('/sw.js')
+                    .then(function (registration) {
+                        console.log(1, registration);
+                    })
+                    .catch(function (err) { })
+            })
+        }
+    </script>
 </body>
+
 </html>

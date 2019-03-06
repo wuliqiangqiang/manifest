@@ -1,4 +1,4 @@
 module.exports = {
-  static: "./static/src",
+  static: "../static/src",
   views: "./static/src/pages"
 };

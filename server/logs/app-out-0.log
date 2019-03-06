@@ -2372,3 +2372,1105 @@
   --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.02kb
   <-- GET /static/src/pages/main/test/img/icons/book-144.png
   --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 243ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 19ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 3ms -
+  --> GET /static/src/pages/main/test/manifest.json 200 7ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 3ms 3.12kb
+  <-- GET /
+  --> GET / 200 8ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 6ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 3ms 3.12kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 217ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 52ms 0b
+  <-- GET /favicon.ico
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /favicon.ico 404 2ms -
+  --> GET /static/src/pages/main/test/manifest.json 200 5ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 3ms 3.12kb
+  <-- GET /
+  --> GET / 200 9ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 3ms 0b
+  <-- GET /favicon.ico
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /favicon.ico 404 2ms -
+  --> GET /static/src/pages/main/test/manifest.json 200 3ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 4ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 2ms 513b
+  <-- GET /
+  <-- GET /static/src/pages/main/test/test.html
+  --> GET /static/src/pages/main/test/test.html 404 1ms -
+  --> GET / 200 5ms 1.72kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 180ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 23ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 6ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 3ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 2ms 514b
+  <-- GET /
+  <-- GET /static/src/pages/main/test/index.html
+  --> GET /static/src/pages/main/test/index.html 404 2ms -
+  --> GET / 200 7ms 1.72kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 239ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 10ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 4ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 4ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 2ms 512b
+  <-- GET /
+  <-- GET /static/src/pages/main/test/test.hbs
+  --> GET /static/src/pages/main/test/test.hbs 200 3ms 1.72kb
+  --> GET / 200 9ms 1.72kb
+  <-- GET /
+  --> GET / 200 4ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 2ms 512b
+  <-- GET /
+  <-- GET /static/src/pages/main/test/test.hbs
+  --> GET /static/src/pages/main/test/test.hbs 200 2ms 1.72kb
+  --> GET / 200 5ms 1.72kb
+  <-- GET /
+  --> GET / 200 6ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 1ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /
+  --> GET / 200 3ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 4ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 4ms 3.12kb
+  <-- GET /
+  --> GET / 200 3ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /
+  --> GET / 200 2ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 3ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /
+  --> GET / 200 5ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 3ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 4ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 2ms 512b
+  <-- GET /
+  <-- GET /static/src/pages/main/test/test.hbs
+  --> GET /static/src/pages/main/test/test.hbs 200 3ms 1.72kb
+  --> GET / 200 6ms 1.72kb
+  <-- GET /
+  --> GET / 200 5ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 15ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 5ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 1ms 512b
+  <-- GET /
+  <-- GET /static/src/pages/main/test/test.hbs
+  --> GET /static/src/pages/main/test/test.hbs 200 3ms 1.72kb
+  --> GET / 200 5ms 1.72kb
+  <-- GET /
+  --> GET / 200 2ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 3ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 1ms 3.12kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 159ms 1.72kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 30ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 4ms 1.01kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 5ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 3ms 512b
+  <-- GET /
+  <-- GET /static/src/pages/main/test/test.hbs
+  --> GET /static/src/pages/main/test/test.hbs 200 2ms 1.72kb
+  --> GET / 200 7ms 1.72kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 184ms 1.85kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 18ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 4ms 1.01kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 3ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 3ms 512b
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 242ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 25ms 0b
+  <-- GET /favicon.ico
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /favicon.ico 404 3ms -
+  --> GET /static/src/pages/main/test/manifest.json 200 5ms 1.01kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 3ms 512b
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 3ms 3.12kb
+  <-- GET /
+  <-- GET /static/src/pages/main/test/test.hbs
+  --> GET /static/src/pages/main/test/test.hbs 200 3ms 1.87kb
+  --> GET / 200 7ms 1.87kb
+  <-- GET /static/src/pages/main/test/img/icons/book-32.png
+  <-- GET /static/src/pages/main/test/img/icons/book-72.png
+  <-- GET /static/src/pages/main/test/img/icons/book-128.png
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  <-- GET /static/src/pages/main/test/img/icons/book-192.png
+  <-- GET /static/src/pages/main/test/img/icons/book-256.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 7ms 3.12kb
+  --> GET /static/src/pages/main/test/img/icons/book-128.png 200 8ms 2.86kb
+  --> GET /static/src/pages/main/test/img/icons/book-72.png 200 12ms 1.42kb
+  --> GET /static/src/pages/main/test/img/icons/book-32.png 200 13ms 648b
+  --> GET /static/src/pages/main/test/img/icons/book-192.png 200 8ms 4.64kb
+  --> GET /static/src/pages/main/test/img/icons/book-256.png 200 8ms 6.47kb
+  <-- GET /static/src/pages/main/test/img/icons/book-512.png
+  --> GET /static/src/pages/main/test/img/icons/book-512.png 200 5ms 17.67kb
+  <-- GET /
+  --> GET / 200 11ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 3ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 6ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 3ms 512b
+  <-- GET /
+  <-- GET /static/src/pages/main/test/test.hbs
+  --> GET /static/src/pages/main/test/test.hbs 200 2ms 1.87kb
+  --> GET / 200 5ms 1.87kb
+  <-- GET /
+  --> GET / 200 5ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 6ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.03kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 3ms 3.12kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 265ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 18ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 13ms 1.03kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 9ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 3ms 512b
+  <-- GET /
+  <-- GET /static/src/pages/main/test/test.hbs
+  --> GET /static/src/pages/main/test/test.hbs 200 4ms 1.87kb
+  --> GET / 200 9ms 1.87kb
+  <-- GET /
+  --> GET / 200 6ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.03kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /
+  --> GET / 200 4ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 3ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.03kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /
+  --> GET / 200 10ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 3ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.03kb
+  <-- GET /favicon.ico
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /favicon.ico 404 2ms -
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 372ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 47ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 5ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 4ms 3.12kb
+  <-- GET /
+  --> GET / 200 7ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 3ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 5ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 3ms 512b
+  <-- GET /
+  <-- GET /static/src/pages/main/test/test.hbs
+  --> GET /static/src/pages/main/test/test.hbs 200 3ms 1.87kb
+  --> GET / 200 5ms 1.87kb
+  <-- GET /
+  --> GET / 200 5ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 1ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 3ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 3ms -
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /
+  --> GET / 200 6ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 1ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 2ms 512b
+  <-- GET /
+  <-- GET /static/src/pages/main/test/test.hbs
+  --> GET /static/src/pages/main/test/test.hbs 200 3ms 1.87kb
+  --> GET / 200 5ms 1.87kb
+  <-- GET /
+  --> GET / 200 2ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 1ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 3ms 3.12kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 158ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 17ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 5ms 1.06kb
+  <-- GET /favicon.ico
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /favicon.ico 404 5ms -
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 15ms 3.12kb
+  <-- GET /
+  --> GET / 200 9ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 7ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 3ms 1.06kb
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 2ms 3.12kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 106ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 10ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 6ms 1.02kb
+  <-- GET /favicon.ico
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /favicon.ico 404 3ms -
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 4ms 3.12kb
+  <-- GET /static/src/pages/main/test/sw.js
+  --> GET /static/src/pages/main/test/sw.js 200 5ms 512b
+  <-- GET /
+  <-- GET /static/src/pages/main/test/test.hbs
+  --> GET /static/src/pages/main/test/test.hbs 200 2ms 1.87kb
+  --> GET / 200 8ms 1.87kb
+  <-- GET /
+  --> GET / 200 4ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 5ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 4ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 5ms 3.12kb
+  <-- GET /
+  --> GET / 200 7ms 1.87kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 3ms 0b
+  <-- GET /static/src/pages/main/test/manifest.json
+  --> GET /static/src/pages/main/test/manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  <-- GET /static/src/pages/main/test/img/icons/book-144.png
+  --> GET /favicon.ico 404 2ms -
+  --> GET /static/src/pages/main/test/img/icons/book-144.png 200 3ms 3.12kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 188ms 1.79kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 135ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 404 3ms -
+  <-- GET /manifest.json
+  --> GET /manifest.json 404 2ms -
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /sw.js
+  --> GET /sw.js 404 1ms -
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 172ms 1.79kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 23ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 404 3ms -
+  <-- GET /manifest.json
+  --> GET /manifest.json 404 2ms -
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /sw.js
+  --> GET /sw.js 404 1ms -
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 176ms 1.81kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 68ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 4ms 1.02kb
+  <-- GET /static/img/icons/book-32.png
+  --> GET /static/img/icons/book-32.png 404 1ms -
+  <-- GET /static/img/icons/book-72.png
+  --> GET /static/img/icons/book-72.png 404 1ms -
+  <-- GET /static/img/icons/book-128.png
+  --> GET /static/img/icons/book-128.png 404 1ms -
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 404 1ms -
+  <-- GET /static/img/icons/book-192.png
+  --> GET /static/img/icons/book-192.png 404 2ms -
+  <-- GET /static/img/icons/book-256.png
+  --> GET /static/img/icons/book-256.png 404 1ms -
+  <-- GET /static/img/icons/book-512.png
+  --> GET /static/img/icons/book-512.png 404 1ms -
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 404 1ms -
+  <-- GET /static/sw.js
+  --> GET /static/sw.js 200 4ms 512b
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 107ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 9ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 5ms 1.02kb
+  <-- GET /static/img/icons/book-32.png
+  <-- GET /static/img/icons/book-72.png
+  <-- GET /static/img/icons/book-128.png
+  <-- GET /static/img/icons/book-144.png
+  <-- GET /static/img/icons/book-192.png
+  <-- GET /static/img/icons/book-256.png
+  --> GET /static/img/icons/book-32.png 404 7ms -
+  --> GET /static/img/icons/book-72.png 404 5ms -
+  --> GET /static/img/icons/book-128.png 404 5ms -
+  --> GET /static/img/icons/book-144.png 404 6ms -
+  --> GET /static/img/icons/book-192.png 404 5ms -
+  --> GET /static/img/icons/book-256.png 404 5ms -
+  <-- GET /static/img/icons/book-512.png
+  --> GET /static/img/icons/book-512.png 404 2ms -
+  <-- GET /favicon.ico
+  <-- GET /static/img/icons/book-144.png
+  --> GET /favicon.ico 404 2ms -
+  --> GET /static/img/icons/book-144.png 404 2ms -
+  <-- GET /static/sw.js
+  --> GET /static/sw.js 200 2ms 512b
+  <-- GET /static/test.hbs
+  <-- GET /
+  --> GET /static/test.hbs 404 2ms -
+  --> GET / 200 9ms 1.82kb
+  <-- GET /
+  --> GET / 200 5ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 4ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 2ms 1.02kb
+  <-- GET /static/img/icons/book-32.png
+  <-- GET /static/img/icons/book-72.png
+  <-- GET /static/img/icons/book-128.png
+  <-- GET /static/img/icons/book-144.png
+  <-- GET /static/img/icons/book-192.png
+  <-- GET /static/img/icons/book-256.png
+  --> GET /static/img/icons/book-32.png 404 6ms -
+  --> GET /static/img/icons/book-72.png 404 6ms -
+  --> GET /static/img/icons/book-128.png 404 6ms -
+  <-- GET /static/img/icons/book-512.png
+  --> GET /static/img/icons/book-144.png 404 7ms -
+  --> GET /static/img/icons/book-192.png 404 9ms -
+  --> GET /static/img/icons/book-256.png 404 9ms -
+  --> GET /static/img/icons/book-512.png 404 4ms -
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 404 1ms -
+  <-- GET /static/sw.js
+  --> GET /static/sw.js 200 2ms 512b
+  <-- GET /
+  <-- GET /static/test.hbs
+  --> GET /static/test.hbs 404 3ms -
+  --> GET / 200 8ms 1.82kb
+  <-- GET /
+  --> GET / 200 4ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 4ms 1.02kb
+  <-- GET /static/img/icons/book-32.png
+  <-- GET /static/img/icons/book-72.png
+  --> GET /static/img/icons/book-32.png 404 2ms -
+  <-- GET /static/img/icons/book-128.png
+  --> GET /static/img/icons/book-72.png 404 3ms -
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-128.png 404 3ms -
+  <-- GET /static/img/icons/book-192.png
+  --> GET /static/img/icons/book-144.png 404 3ms -
+  --> GET /static/img/icons/book-192.png 404 2ms -
+  <-- GET /static/img/icons/book-256.png
+  --> GET /static/img/icons/book-256.png 404 2ms -
+  <-- GET /static/img/icons/book-512.png
+  --> GET /static/img/icons/book-512.png 404 1ms -
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 404 6ms -
+  <-- GET /static/sw.js
+  --> GET /static/sw.js 200 2ms 512b
+  <-- GET /
+  <-- GET /static/test.hbs
+  --> GET /static/test.hbs 404 1ms -
+  --> GET / 200 4ms 1.82kb
+  <-- GET /
+  --> GET / 200 3ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 1ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 3ms 1.02kb
+  <-- GET /static/img/icons/book-32.png
+  --> GET /static/img/icons/book-32.png 404 1ms -
+  <-- GET /static/img/icons/book-72.png
+  --> GET /static/img/icons/book-72.png 404 1ms -
+  <-- GET /static/img/icons/book-128.png
+  --> GET /static/img/icons/book-128.png 404 1ms -
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 404 1ms -
+  <-- GET /static/img/icons/book-192.png
+  --> GET /static/img/icons/book-192.png 404 2ms -
+  <-- GET /static/img/icons/book-256.png
+  --> GET /static/img/icons/book-256.png 404 1ms -
+  <-- GET /static/img/icons/book-512.png
+  --> GET /static/img/icons/book-512.png 404 2ms -
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 404 1ms -
+  <-- GET /static/sw.js
+  --> GET /static/sw.js 200 2ms 512b
+  <-- GET /
+  <-- GET /static/test.hbs
+  --> GET /static/test.hbs 404 2ms -
+  --> GET / 200 4ms 1.82kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 204ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 17ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 7ms 1.02kb
+  <-- GET /static/img/icons/book-32.png
+  <-- GET /static/img/icons/book-72.png
+  --> GET /static/img/icons/book-32.png 404 4ms -
+  --> GET /static/img/icons/book-72.png 404 4ms -
+  <-- GET /static/img/icons/book-128.png
+  --> GET /static/img/icons/book-128.png 404 2ms -
+  <-- GET /static/img/icons/book-144.png
+  <-- GET /static/img/icons/book-192.png
+  <-- GET /static/img/icons/book-256.png
+  <-- GET /static/img/icons/book-512.png
+  --> GET /static/img/icons/book-144.png 404 3ms -
+  --> GET /static/img/icons/book-192.png 404 3ms -
+  --> GET /static/img/icons/book-256.png 404 4ms -
+  --> GET /static/img/icons/book-512.png 404 3ms -
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 404 24ms -
+  <-- GET /static/sw.js
+  --> GET /static/sw.js 200 2ms 492b
+  <-- GET /
+  --> GET / 200 6ms 1.82kb
+  <-- GET /
+  --> GET / 200 12ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 8ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 2ms 1.02kb
+  <-- GET /static/img/icons/book-32.png
+  <-- GET /static/img/icons/book-72.png
+  --> GET /static/img/icons/book-72.png 200 5ms 1.42kb
+  --> GET /static/img/icons/book-32.png 200 6ms 648b
+  <-- GET /static/img/icons/book-128.png
+  <-- GET /static/img/icons/book-144.png
+  <-- GET /static/img/icons/book-192.png
+  <-- GET /static/img/icons/book-256.png
+  <-- GET /static/img/icons/book-512.png
+  --> GET /static/img/icons/book-128.png 200 12ms 2.86kb
+  --> GET /static/img/icons/book-144.png 200 11ms 3.12kb
+  --> GET /static/img/icons/book-192.png 200 11ms 4.64kb
+  --> GET /static/img/icons/book-256.png 200 10ms 6.47kb
+  --> GET /static/img/icons/book-512.png 200 9ms 17.67kb
+  <-- GET /static/img/icons/book-144.png
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 3ms -
+  --> GET /static/img/icons/book-144.png 200 4ms 3.12kb
+  <-- GET /static/sw.js
+  --> GET /static/sw.js 200 2ms 492b
+  <-- GET /
+  --> GET / 200 5ms 1.82kb
+  <-- GET /
+  --> GET / 200 4ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 2ms 1.02kb
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 200 3ms 3.12kb
+  <-- GET /
+  --> GET / 200 4ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 200 1ms 3.12kb
+  <-- GET /
+  --> GET / 200 3ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 15ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 2ms 1.02kb
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /
+  --> GET / 200 3ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 3ms 1.02kb
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /
+  --> GET / 200 4ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 2ms 1.02kb
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 200 1ms 3.12kb
+  <-- GET /
+  --> GET / 200 19ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 1ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 2ms 1.02kb
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /
+  --> GET / 200 5ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 1ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 2ms 1.02kb
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 200 2ms 3.12kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 591ms 1.82kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 10ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 6ms 1.02kb
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 200 4ms 3.12kb
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 158ms 1.79kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 16ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 4ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /sw.js
+  <-- GET /static/img/icons/book-144.png
+  --> GET /sw.js 404 3ms -
+  --> GET /static/img/icons/book-144.png 200 4ms 3.12kb
+环境为: development
+服务已经开启 1235
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 233ms 1.79kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 49ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 5ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 200 3ms 3.12kb
+  <-- GET /sw.js
+  --> GET /sw.js 404 1ms -
+  <-- GET /
+  --> GET / 200 9ms 1.79kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 200 2ms 0b
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 200 2ms 1.02kb
+  <-- GET /static/img/icons/book-144.png
+  --> GET /static/img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /sw.js
+  --> GET /sw.js 404 2ms -
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 3ms -
+  <-- GET /static/img/book.png
+  --> GET /static/img/book.png 200 4ms 557b
+  <-- GET /static/sw.js
+  --> GET /static/sw.js 200 3ms 498b
+环境为: development
+服务已经开启 1235
+环境为: development
+服务已经开启 1235
+  <-- GET /static/img/book.png
+  --> GET /static/img/book.png 404 44ms -
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 3ms -
+环境为: development
+服务已经开启 1235
+环境为: development
+服务已经开启 1235
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 16ms -
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 3ms -
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+环境为: development
+服务已经开启 1235
+环境为: development
+服务已经开启 1235
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 16ms -
+  <-- GET /static/img/book.png
+  --> GET /static/img/book.png 200 15ms 557b
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 2ms -
+环境为: development
+服务已经开启 1235
+环境为: development
+服务已经开启 1235
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 21ms -
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 3ms -
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 1ms -
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 1ms -
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 2ms -
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 2ms -
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /static/img/book.png
+  --> GET /static/img/book.png 404 1ms -
+  <-- GET /static/img/book.png
+  --> GET /static/img/book.png 404 2ms -
+环境为: development
+服务已经开启 1235
+环境为: development
+服务已经开启 1235
+  <-- GET /static/img/book.png
+  --> GET /static/img/book.png 404 18ms -
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 3ms -
+  <-- GET /static/img/book.png
+  --> GET /static/img/book.png 404 1ms -
+  <-- GET /static/img/book.png
+  --> GET /static/img/book.png 404 1ms -
+  <-- GET /static/img/book.png
+  --> GET /static/img/book.png 404 1ms -
+  <-- GET /img/book.png
+  --> GET /img/book.png 404 1ms -
+  <-- GET /
+  --> GET / 200 160ms 1.79kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 404 6ms -
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 404 1ms -
+  <-- GET /sw.js
+  --> GET /sw.js 404 2ms -
+  <-- GET /
+  --> GET / 200 6ms 1.79kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 404 1ms -
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 404 2ms -
+  <-- GET /sw.js
+  --> GET /sw.js 404 2ms -
+环境为: development
+服务已经开启 1235
+环境为: development
+服务已经开启 1235
+  <-- GET /static/img/book.png
+  --> GET /static/img/book.png 404 26ms -
+环境为: development
+服务已经开启 1235
+环境为: development
+服务已经开启 1235
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 172ms 1.79kb
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 404 5ms -
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 404 2ms -
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 404 1ms -
+  <-- GET /sw.js
+  --> GET /sw.js 200 9ms 498b
+  <-- GET /
+  --> GET / 200 5ms 1.79kb
+  <-- GET /static/img/book.png
+  --> GET /static/img/book.png 404 2ms -
+  <-- GET /sw.js
+  <-- GET /img/book.png
+  --> GET /sw.js 200 3ms 498b
+  --> GET /img/book.png 200 4ms 557b
+  <-- GET /img/book.png
+  --> GET /img/book.png 200 2ms 557b
+  <-- GET /sw.js
+  --> GET /sw.js 200 1ms 498b
+  <-- GET /static/src/pages/main/test/test.js
+  --> GET /static/src/pages/main/test/test.js 404 2ms -
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 404 2ms -
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 404 2ms -
+  <-- GET /sw.js
+  --> GET /sw.js 200 4ms 498b
+环境为: development
+服务已经开启 1235
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 404 25ms -
+  <-- GET /static/manifest.json
+  --> GET /static/manifest.json 404 4ms -
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 5ms -
+  <-- GET /sw.js
+  --> GET /sw.js 200 12ms 499b
+  <-- GET /
+  --> GET / 200 272ms 1.72kb
+  <-- GET /
+  --> GET / 200 7ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 7ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 3ms 1.02kb
+  <-- GET /img/icons/book-32.png
+  <-- GET /img/icons/book-72.png
+  <-- GET /img/icons/book-128.png
+  <-- GET /img/icons/book-144.png
+  <-- GET /img/icons/book-192.png
+  <-- GET /img/icons/book-256.png
+  --> GET /img/icons/book-32.png 200 9ms 648b
+  --> GET /img/icons/book-72.png 200 9ms 1.42kb
+  --> GET /img/icons/book-128.png 200 9ms 2.86kb
+  --> GET /img/icons/book-144.png 200 8ms 3.12kb
+  <-- GET /img/icons/book-512.png
+  --> GET /img/icons/book-192.png 200 7ms 4.64kb
+  --> GET /img/icons/book-256.png 200 7ms 6.47kb
+  --> GET /img/icons/book-512.png 200 5ms 17.67kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /img/icons/book-144.png
+  --> GET /img/icons/book-144.png 200 2ms 3.12kb
+  <-- GET /
+  --> GET / 200 6ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 4ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /sw.js
+  --> GET /sw.js 200 2ms 499b
+环境为: development
+服务已经开启 1235
+  <-- GET /
+  --> GET / 200 184ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 10ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 8ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /sw.js
+  --> GET /sw.js 200 4ms 499b
+  <-- GET /
+  --> GET / 200 19ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 1ms 0b
+  <-- GET /manifest.json
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 3ms -
+  --> GET /manifest.json 200 6ms 1.02kb
+  <-- GET /
+  --> GET / 200 5ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 5ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /
+  --> GET / 200 7ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /favicon.ico
+  <-- GET /manifest.json
+  --> GET /favicon.ico 404 2ms -
+  --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /
+  --> GET / 200 5ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /
+  --> GET / 200 5ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 1ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /sw.js
+  --> GET /sw.js 200 5ms 499b
+  <-- GET /img/icons/book-32.png
+  <-- GET /img/icons/book-72.png
+  <-- GET /img/icons/book-128.png
+  <-- GET /img/icons/book-144.png
+  <-- GET /img/icons/book-192.png
+  <-- GET /img/icons/book-256.png
+  --> GET /img/icons/book-72.png 200 11ms 1.42kb
+  --> GET /img/icons/book-32.png 200 12ms 648b
+  --> GET /img/icons/book-128.png 200 10ms 2.86kb
+  --> GET /img/icons/book-144.png 200 8ms 3.12kb
+  --> GET /img/icons/book-192.png 200 8ms 4.64kb
+  --> GET /img/icons/book-256.png 200 8ms 6.47kb
+  <-- GET /img/icons/book-512.png
+  --> GET /img/icons/book-512.png 200 4ms 17.67kb
+  <-- GET /img/icons/book-144.png
+  --> GET /img/icons/book-144.png 200 1ms 3.12kb
+  <-- GET /sw.js
+  --> GET /sw.js 200 4ms 499b
+  <-- GET /sw.js
+  --> GET /sw.js 200 2ms 499b
+  <-- GET /
+  --> GET / 200 4ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 3ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /sw.js
+  --> GET /sw.js 200 3ms 499b
+  <-- GET /
+  --> GET / 200 5ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /
+  --> GET / 200 2ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /
+  --> GET / 200 3ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /sw.js
+  --> GET /sw.js 200 3ms 499b
+  <-- GET /sw.js
+  --> GET /sw.js 200 2ms 499b
+  <-- GET /
+  --> GET / 200 2ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /img/icons/book-32.png
+  <-- GET /img/icons/book-72.png
+  <-- GET /img/icons/book-128.png
+  <-- GET /img/icons/book-144.png
+  <-- GET /img/icons/book-192.png
+  <-- GET /img/icons/book-256.png
+  --> GET /img/icons/book-32.png 200 11ms 648b
+  --> GET /img/icons/book-72.png 200 11ms 1.42kb
+  <-- GET /img/icons/book-512.png
+  --> GET /img/icons/book-128.png 200 12ms 2.86kb
+  --> GET /img/icons/book-144.png 200 9ms 3.12kb
+  --> GET /img/icons/book-192.png 200 10ms 4.64kb
+  --> GET /img/icons/book-256.png 200 11ms 6.47kb
+  --> GET /img/icons/book-512.png 200 8ms 17.67kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /sw.js
+  --> GET /sw.js 200 3ms 499b
+  <-- GET /sw.js
+  --> GET /sw.js 200 2ms 499b
+  <-- GET /sw.js
+  --> GET /sw.js 200 2ms 499b
+  <-- GET /
+  --> GET / 200 2ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /sw.js
+  --> GET /sw.js 200 2ms 499b
+  <-- GET /sw.js
+  --> GET /sw.js 200 5ms 499b
+  <-- GET /
+  --> GET / 200 5ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 1ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 1ms 1.02kb
+  <-- GET /sw.js
+  --> GET /sw.js 200 1ms 499b
+  <-- GET /sw.js
+  --> GET /sw.js 200 3ms 499b
+  <-- GET /
+  --> GET / 200 5ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /sw.js
+  --> GET /sw.js 200 2ms 499b
+  <-- GET /sw.js
+  --> GET /sw.js 200 3ms 499b
+  <-- GET /sw.js
+  --> GET /sw.js 200 2ms 499b
+  <-- GET /
+  --> GET / 200 3ms 1.72kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.02kb

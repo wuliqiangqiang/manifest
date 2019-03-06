@@ -30,7 +30,7 @@ app.use(
 app.use(json());
 
 app.use(logger());
-app.use(require("koa-static")(path.join(__dirname, `../`), env.static));
+app.use(require("koa-static")(path.join(__dirname, env.static)));
 
 app.use(
   views(path.join(path.join(__dirname, `../`), `${env.views}`), {
