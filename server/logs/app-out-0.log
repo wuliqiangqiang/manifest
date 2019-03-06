@@ -3474,3 +3474,97 @@
   --> GET /pages/main/test/test.js 200 2ms 0b
   <-- GET /manifest.json
   --> GET /manifest.json 200 2ms 1.02kb
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 14ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.13kb
+  <-- GET /pages/main/test/img/icons/book-32.png
+  <-- GET /pages/main/test/img/icons/book-72.png
+  <-- GET /pages/main/test/img/icons/book-128.png
+  <-- GET /pages/main/test/img/icons/book-144.png
+  <-- GET /pages/main/test/img/icons/book-192.png
+  <-- GET /pages/main/test/img/icons/book-256.png
+  --> GET /pages/main/test/img/icons/book-32.png 200 14ms 648b
+  --> GET /pages/main/test/img/icons/book-72.png 200 14ms 1.42kb
+  --> GET /pages/main/test/img/icons/book-144.png 200 12ms 3.12kb
+  --> GET /pages/main/test/img/icons/book-128.png 200 13ms 2.86kb
+  --> GET /pages/main/test/img/icons/book-256.png 200 12ms 6.47kb
+  <-- GET /pages/main/test/img/icons/book-512.png
+  --> GET /pages/main/test/img/icons/book-192.png 200 14ms 4.64kb
+  --> GET /pages/main/test/img/icons/book-512.png 200 4ms 17.67kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 1ms 1.13kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 1ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 4ms 1.13kb
+  <-- GET /sw.js
+  --> GET /sw.js 200 7ms 499b
+  <-- GET /
+  --> GET / 200 14ms 1.93kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  --> GET /pages/main/test/addtohomescreen.css 404 8ms -
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 16ms 0b
+  --> GET /pages/main/test/addtohomescreen.js 404 3ms -
+  <-- GET /pages/main/test/addtohomescreen.css
+  --> GET /pages/main/test/addtohomescreen.css 404 1ms -
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.13kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /pages/main/test/test.js
+  --> GET /pages/main/test/test.js 200 2ms 0b
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 3ms 1.13kb
+  <-- GET /sw.js
+  --> GET /sw.js 200 3ms 499b
+  <-- GET /
+  --> GET / 200 4ms 1.93kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 7ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 7ms 10.51kb
+  --> GET /pages/main/test/addtohomescreen.js 200 7ms 32.75kb
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 2ms 1.13kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 1ms -
+  <-- GET /pages/main/test/img/icons/book-256.png
+  --> GET /pages/main/test/img/icons/book-256.png 200 2ms 6.47kb
+  <-- GET /
+  --> GET / 200 8ms 1.93kb
+  <-- GET /pages/main/test/test.js
+  <-- GET /pages/main/test/addtohomescreen.css
+  <-- GET /pages/main/test/addtohomescreen.js
+  --> GET /pages/main/test/test.js 200 4ms 0b
+  --> GET /pages/main/test/addtohomescreen.css 200 4ms 10.51kb
+  --> GET /pages/main/test/addtohomescreen.js 200 3ms 32.75kb
+  <-- GET /manifest.json
+  --> GET /manifest.json 200 1ms 1.13kb
+  <-- GET /pages/main/test/img/icons/book-32.png
+  <-- GET /pages/main/test/img/icons/book-72.png
+  <-- GET /pages/main/test/img/icons/book-128.png
+  <-- GET /pages/main/test/img/icons/book-144.png
+  <-- GET /pages/main/test/img/icons/book-192.png
+  --> GET /pages/main/test/img/icons/book-32.png 200 11ms 648b
+  --> GET /pages/main/test/img/icons/book-72.png 200 10ms 1.42kb
+  --> GET /pages/main/test/img/icons/book-128.png 200 9ms 2.86kb
+  <-- GET /pages/main/test/img/icons/book-256.png
+  <-- GET /pages/main/test/img/icons/book-512.png
+  --> GET /pages/main/test/img/icons/book-144.png 200 8ms 3.12kb
+  --> GET /pages/main/test/img/icons/book-192.png 200 8ms 4.64kb
+  --> GET /pages/main/test/img/icons/book-256.png 200 5ms 6.47kb
+  --> GET /pages/main/test/img/icons/book-512.png 200 6ms 17.67kb
+  <-- GET /favicon.ico
+  --> GET /favicon.ico 404 2ms -
+  <-- GET /pages/main/test/img/icons/book-256.png
+  --> GET /pages/main/test/img/icons/book-256.png 200 1ms 6.47kb

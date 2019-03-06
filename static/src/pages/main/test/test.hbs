@@ -24,6 +24,8 @@
     <meta name="msapplication-square310x310logo" content="/pages/main/test/img/icons/book-256.png" />
 
     <script src="/pages/main/test/test.js"></script>
+    <link rel="stylesheet" type="text/css" href="/pages/main/test/addtohomescreen.css">
+    <script src="/pages/main/test/addtohomescreen.js"></script>
     <title>PWA: 图书搜索</title>
 </head>
 
@@ -40,6 +42,9 @@
                     .catch(function (err) { })
             })
         }
+    </script>
+    <script>
+        addToHomescreen();
     </script>
 </body>
 
